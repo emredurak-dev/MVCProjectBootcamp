@@ -26,5 +26,10 @@ namespace MVCProjectBootcamp.Controllers
 
             return View();
         }
+        [AllowAnonymous]
+        public ActionResult HomePage()
+        {
+            return View();
+        }
     }
 }
