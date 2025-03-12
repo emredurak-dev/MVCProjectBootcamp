@@ -1,5 +1,5 @@
 ## 💻✨MVC Bootcamp
-I finished the 100 Lessons MVC Bootcamp Project, which was published free on YouTube. In this project -inspired by the 'eksi sozluk' website- authors can write comments, send messages to other users, and create new topics. The administrator dominates the whole system and can access all transactions from the panel.
+I have completed the 100 Lessons MVC Bootcamp Project, which was offered for free on YouTube. In this project, inspired by the 'eksi sozluk' website, authors can write comments, send messages to other users, and create new topics. The administrator has full control over the system and can access all transactions from the panel.
 
 ## ✔Author Panel
 🔸Profile: The author can update personal information.
@@ -8,8 +8,7 @@ I finished the 100 Lessons MVC Bootcamp Project, which was published free on You
 
 🔸Headings: All headings found on the site are listed.
 
-🔸Messages: The author can send messages to other users, view incoming messages, and reply.
- -Also, the author can create a Draft Message, format and re-transmit it.
+🔸Messages: The author can send messages to other users, view incoming messages, and reply. Also, the author can create a Draft Message, format and re-transmit it.
 
 ## ✔Admin Panel
 🗂️Category: The list contains the categories where titles are added to the site.
@@ -73,4 +72,4 @@ I finished the 100 Lessons MVC Bootcamp Project, which was published free on You
 ![10](https://github.com/user-attachments/assets/b7bf447e-b6f8-49de-8d2f-194afc4c1418)
 ![11](https://github.com/user-attachments/assets/545e162c-815e-45d1-a9c3-51b177803d1e)
 
-## 👑Thank you to my teacher @MuratYucedag for his support and contributions.
+## 👑I would like to extend my appreciation to my instructor, @MuratYucedag, for his valuable support and contributions to my software development journey.
